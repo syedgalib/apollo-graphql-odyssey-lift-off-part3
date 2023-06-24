@@ -2,7 +2,6 @@ import React from 'react';
 import styled from '@emotion/styled';
 import { colors, mq } from '../styles';
 import { humanReadableTimeFromSeconds } from '../utils/helpers';
-
 import { Link } from "react-router-dom";
 
 /**
